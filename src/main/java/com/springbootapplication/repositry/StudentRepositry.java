@@ -6,4 +6,5 @@ import com.springbootapplication.entity.Student;
 
 public interface StudentRepositry extends JpaRepository<Student,Integer> {
 
+	
 }
